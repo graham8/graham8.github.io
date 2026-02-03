@@ -1,15 +1,14 @@
 # graham8.github.io
 
-<!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="refresh" content="0; url=https://stanfordpc.org.uk">
+  <meta http-equiv="refresh" content="0; url=https://stanfordparish.gov.uk">
   <script>
-    window.location.replace("https://stanfordpc.org.uk");
+    window.location.replace("https://stanfordparish.gov.uk");
   </script>
   <title>Redirecting…</title>
 </head>
 <body>
-  <p>If you are not redirected, <a href="https://stanfordpc.org.uk">click here</a>.</p>
+  <p>If you are not redirected, <a href="https://stanfordparish.gov.uk">click here</a>.</p>
 </body>
 </html>
