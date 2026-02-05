@@ -2,7 +2,7 @@
 
 <html>
 <head>
-  <meta http-equiv="refresh" content="0; url=https://stanfordpc.org.uk">
+  <meta http-equiv="refresh" content="0; url=https://stanfordparish.gov.uk">
   <script>
     window.location.replace("https://stanfordparish.gov.uk");
   </script>
